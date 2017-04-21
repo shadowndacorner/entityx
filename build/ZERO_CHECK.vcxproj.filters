@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ian\Source\Repos\Seng2\Seng2\3rdParty\entityx\build\CMakeFiles\825db6ebbdc5d0ab62a56f3b6a61600a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3CD2AC27-9B20-3A02-A8B9-428B239272AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

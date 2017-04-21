@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/Ian/Source/Repos/Seng2/Seng2/3rdParty/entityx/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Ian/Source/Repos/Seng2/Seng2/3rdParty/entityx/build/CMakeFiles/generate.stamp is up-to-date.
+  System.cc
+  Event.cc
+  Entity.cc
+  Timer.cc
+  Pool.cc
+  Generating Code...
+  entityx.vcxproj -> C:\Users\Ian\Source\Repos\Seng2\Seng2\3rdParty\entityx\build\Debug\entityx-d.dll
